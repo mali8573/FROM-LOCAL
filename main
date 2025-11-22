@@ -1,2 +1,6 @@
 console.log("from main file")
+
 alert("hi efrat")
+
+alert("hi mali")
+
