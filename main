@@ -8,6 +8,16 @@ alert("hi mali1")
 
 alert("hi mali2")
 
+
 const c=()=>{
     alert("c")
+
+
+const a=()=>{
+    alert("a")
+}
+const b=()=>{
+    alert("b")
+
+
 }
