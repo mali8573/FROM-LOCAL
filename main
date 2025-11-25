@@ -8,3 +8,6 @@ alert("hi mali1")
 
 alert("hi mali2")
 
+const b=()=>{
+    alert("b")
+}
